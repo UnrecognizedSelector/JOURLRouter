@@ -1,0 +1,2 @@
+# JOURLJumpManager
+通过url在应用内各个模块间互相跳转，使模块间解耦的demo
