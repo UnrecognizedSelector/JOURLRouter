@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JOURLRouter_Example' do
+  pod 'JOURLRouter', :path => '../'
+
+  target 'JOURLRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

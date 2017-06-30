@@ -1,0 +1,16 @@
+PODS:
+  - JOURLRouter (0.1.0)
+
+DEPENDENCIES:
+  - JOURLRouter (from `../`)
+
+EXTERNAL SOURCES:
+  JOURLRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JOURLRouter: 2ba31d8603ae0e9b45effa4a666a611fe05c467c
+
+PODFILE CHECKSUM: eb2a6c6865dc7d94440a6ef6a0beef77e4bc0bc6
+
+COCOAPODS: 1.2.1
