@@ -22,7 +22,7 @@ pod "JOURLRouter"
 ## Usage
 1. create a instance which implement the protocol JOURLRouterDelegate
 
-2. config JOURLRouter
+2. configure JOURLRouter
    #### Example:
    ```ObjC
    @import JOURLRouter;
@@ -63,7 +63,7 @@ pod "JOURLRouter"
        compeletionHandler(vc);
    }
    ```
-4. Then you can use ```[JOURLRouter openUrl:@"https://www.kujiale.com/demo/first/firstvc"]```to push JOFirstViewController without import it
+4. Then you can use ```[JOURLRouter openUrl:@"https://www.kujiale.com/demo/first/firstvc"]```to push JOFirstViewController without importing it
 
 ## Author
 
